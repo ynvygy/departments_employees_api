@@ -1,0 +1,5 @@
+1.Set env variable
+export fga_jwtPrivateKey
+
+2.Start MongoDB (if it isn't running already)
+sudo service mongod start

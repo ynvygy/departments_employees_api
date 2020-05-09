@@ -1,0 +1,8 @@
+{
+	"name": "FGA Development",
+	"mail": {
+		"host": "lugerand@yahoo.com",
+		"password": "fga_password"
+	},
+	"jwtPrivateKey": "fga_jwtPrivateKey"
+}
